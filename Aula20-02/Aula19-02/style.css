@@ -1,0 +1,43 @@
+{
+    margin: 0;
+    padding: 0;
+}
+main{
+    max-width: 1200px;
+    margin: 0;
+}
+.produto{
+    display: inline-block;
+    margin: 10px auto auto 5px;
+    width: 300px;
+    background-color: aliceblue;
+    margin: 10px;
+    padding: 10px;
+    vertical-align: middle; 
+}
+.produto img {
+    width: 100%;
+    height: auto;
+    border-bottom: 1px s;
+
+}
+.produto1 {
+    position: absolute;
+    margin: 10px auto auto 5px;
+    width: 300px;
+    background-color: red;
+}
+.produto2 {
+    position: absolute;
+    margin: 10px auto auto 5px;
+    width: 300px;
+    background-color: red;
+}
+.produto3 {
+    position: absolute;
+    margin: 10px auto auto 5px;
+    width: 300px;
+    background-color: red;
+}
+
+
